@@ -1,2 +1,2 @@
 # VESM2VT-lokaverkefni
-## Dagbók
+## [Dagbók](https://github.com/agustbirgir/VESM2VT-lokaverkefni/wiki)
